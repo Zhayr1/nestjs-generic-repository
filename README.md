@@ -1,0 +1,1 @@
+# nestjs-generic-repository
